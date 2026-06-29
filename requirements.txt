@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+scikit-learn
+numpy
+sentence-transformers
+langchain
+langchain-groq
+groq
+pypdf
+python-docx
