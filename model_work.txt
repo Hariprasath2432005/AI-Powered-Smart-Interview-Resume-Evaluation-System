@@ -1,0 +1,26 @@
+User Upload Resume
+        ↓
+Resume Text Extracted
+        ↓
+LLM Evaluates Resume
+        ↓
+Generate Questions
+        ↓
+User Answers Question
+        ↓
+Embedding Model Converts Text
+        ↓
+Cosine Similarity Calculates Score (ML)
+        ↓
+LLM Generates Feedback (AI)
+        ↓
+Final Result Shown
+
+
+
+Layer	          Technology       	      Purpose
+Frontend	      Streamlit      	      Web UI
+LLM	              Groq LLaMA 3.1	      AI evaluation
+Deep Learning	  SentenceTransformer	   Embeddings
+Machine Learning	Cosine Similarity	    Scoring
+File Processing	      PyPDF, docx	        Resume reading
