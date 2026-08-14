@@ -5,9 +5,10 @@ smart interview assessments using Groq LLM and advanced NLP techniques.
 
 ## 📸 App Preview
 
-![App Screenshot 1](app%20pic%201.png)
-![App Screenshot 2](app%20pic%202.png)
-![App Screenshot 3](app%20pic%203.png)
+![C AI 1](C%20AI%201.png)
+![C AI 2](C%20AI%202.png)
+![C AI 3](C%20AI%203.png)
+![C AI 4](C%20AI%204.png)
 
 ## ✨ Features
 - 📄 Smart Resume parsing & analysis
